@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943483377919",
+    "firebase_url": "https://sypatricklab9-b7d19.firebaseio.com",
+    "project_id": "sypatricklab9-b7d19",
+    "storage_bucket": "sypatricklab9-b7d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943483377919:android:082af5992ce703c5",
+        "android_client_info": {
+          "package_name": "com.sy.patrick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943483377919-sqoj8hr7epae7qmii5rmth9ar34po999.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sy.patrick",
+            "certificate_hash": "3397af89a2c2c9fb3ad6ac62061ef8e707bc6b91"
+          }
+        },
+        {
+          "client_id": "943483377919-l7926106oprc8ajkgmf0ilbmsi6qkapg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaM5I31kccOCcKFTEdde_AF-ykrPr9L54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943483377919-l7926106oprc8ajkgmf0ilbmsi6qkapg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
